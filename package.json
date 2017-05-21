@@ -17,9 +17,14 @@
   "license": "MIT",
   "homepage": "https://github.com/alicoding/react-webpack-babel#readme",
   "dependencies": {
+    "axios": "^0.16.1",
+    "immutable": "^3.8.1",
+    "leaflet": "^1.0.3",
     "node-sass": "^4.3.0",
     "react": "15.4.2",
+    "react-bootstrap": "^0.31.0",
     "react-dom": "15.4.2",
+    "react-leaflet": "^1.1.6",
     "sass-loader": "^6.0.2"
   },
   "devDependencies": {
